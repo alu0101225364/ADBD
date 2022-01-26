@@ -2,7 +2,7 @@
 
 <h2> Prácticas </h2>
 <h3> Práctica arquitectos </h3>
-
+https://github.com/alu0101225364/ADBD/tree/main/PracticaArquitectos
 
 <h2> PROYECTO FINAL DE LA ASIGNATURA</h2>
 
