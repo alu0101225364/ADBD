@@ -6,9 +6,16 @@ https://github.com/alu0101225364/ADBD/tree/main/PracticaArquitectos
 
 <h2> PROYECTO FINAL DE LA ASIGNATURA</h2>
 
-Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/31ec9d7492586e39450bf16445f0fdfbc1a1050a/Requisitos.docx%20(2).pdf
+Enlace al documento de requisitos: 
 
-Enlace al documento del diagrama Entidad Relación: https://github.com/alu0101225364/ADBD/blob/15a3ad6bad5c520c3130dead9e361253b007b78a/ERE_Proyecto.pdf
+Enlace al documento del diagrama Entidad Relación: 
+
+Enlace al documento del diagrama Relacional: 
+
+Enlace al documento del diagrama Conceptual
 
 Enlaces Scripts:
-   - Script Creación de tablas: 
+   - Script creación de tablas: https://github.com/alu0101225364/ADBD/blob/main/TABLES.sql
+   - Script creación de triggers: https://github.com/alu0101225364/ADBD/blob/main/TRIGGERS.sql
+   - Script de inserciones: https://github.com/alu0101225364/ADBD/blob/main/INSERTS.sql
+
