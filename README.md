@@ -10,4 +10,5 @@ Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/31
 
 Enlace al documento del diagrama Entidad Relación: https://github.com/alu0101225364/ADBD/blob/15a3ad6bad5c520c3130dead9e361253b007b78a/ERE_Proyecto.pdf
 
-Enlace
+Enlaces Scripts:
+   - Script Creación de tablas: 
