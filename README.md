@@ -6,9 +6,9 @@ https://github.com/alu0101225364/ADBD/tree/main/PracticaArquitectos
 
 <h2> PROYECTO FINAL DE LA ASIGNATURA</h2>
 
-Enlace al documento de requisitos: 
+Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/main/Requisitos.docx%20(3).pdf
 
-Enlace al documento del diagrama Entidad Relación: 
+Enlace al documento del diagrama Entidad Relación: https://github.com/alu0101225364/ADBD/blob/main/ERE_Proyecto%20(1).pdf
 
 Enlace al documento del diagrama Relacional: 
 
