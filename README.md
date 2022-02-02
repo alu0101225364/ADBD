@@ -6,7 +6,7 @@ https://github.com/alu0101225364/ADBD/tree/main/PracticaArquitectos
 
 <h2> PROYECTO FINAL DE LA ASIGNATURA</h2>
 
-<h3> En este proyecto se ha desarrollado una base de datos sobre un e-commerce y se ha decidido implementarla en el motor MariaDB que usa MySQL como SGBD
+<h3> En este proyecto se ha desarrollado una base de datos sobre un e-commerce y se ha decidido implementarla en el motor MariaDB que usa MySQL como SGBD </h3>
 
 Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/main/ERE_Proyecto%20(2).pdf
 
