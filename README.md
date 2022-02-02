@@ -21,9 +21,11 @@ Enlace al documento de los scripts de la creación: https://github.com/alu010122
 Enlace al documento de migración e inserción de datos: https://github.com/alu0101225364/ADBD/blob/main/CSI8.pdf
 
 
+Enlace al vídeo del grupo en inglés explicando el proyecto: https://drive.google.com/file/d/1OptlTbmemLBLNzeG5ts11V-Q7x2nvfwC/view
+
 Enlaces a documentos de diagramas: 
-   - Diagrama relacional en formato mwb: 
-   - Diagrama conceptual en formato mdj: 
+   - Diagrama relacional en formato mwb: https://github.com/alu0101225364/ADBD/blob/main/Relacional%20(3).mwb
+   - Diagrama conceptual en formato mdj: https://github.com/alu0101225364/ADBD/blob/main/UML%20(2).mdj
    
 Enlaces Scripts:
    - Script creación de tablas: https://github.com/alu0101225364/ADBD/blob/main/TABLES.sql
