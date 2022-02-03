@@ -8,9 +8,10 @@ https://github.com/alu0101225364/ADBD/tree/main/PracticaArquitectos
 
 <h3> En este proyecto se ha desarrollado una base de datos sobre un e-commerce y se ha decidido implementarla en el motor MariaDB que usa MySQL como SGBD </h3>
 
-Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/main/ERE_Proyecto%20(2).pdf
+Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/f216972c336eaf5198ff7a5156494067fb57b7c3/Requisitos.docx%20(3).pdf
 
-Enlace al documento del diagrama Entidad Relación: https://github.com/alu0101225364/ADBD/blob/main/ERE_Proyecto%20(1).pdf
+
+Enlace al documento del diagrama Entidad Relación: https://github.com/alu0101225364/ADBD/blob/main/ERE_Proyecto%20(2).pdf
 
 Enlace al documento del diagrama Relacional: https://github.com/alu0101225364/ADBD/blob/main/GrafoRelacional.pdf
 
